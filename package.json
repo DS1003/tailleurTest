@@ -1,0 +1,25 @@
+{
+  "name": "tailleurtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DS1003/tailleurTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DS1003/tailleurTest/issues"
+  },
+  "homepage": "https://github.com/DS1003/tailleurTest#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crs": "^0.0.01",
+    "express": "^4.19.2"
+  }
+}
